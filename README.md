@@ -1,6 +1,5 @@
 # gitTest
 
 
-## Tui moi sua cai gi do
-
+## hom nay la thu 7 anh thich di vao bar
 
